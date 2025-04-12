@@ -1,0 +1,15 @@
+joblib
+numpy
+pandas
+matplotlib==3.4.3
+seaborn
+scikit-learn
+scipy
+streamlit
+shap
+alibi
+xgboost
+streamlit-shap
+lime
+fastapi
+uvicorn
